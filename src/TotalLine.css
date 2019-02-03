@@ -1,0 +1,8 @@
+.TotaLineContainer {
+    width: 100%;
+    height: 5vh;
+    background: red;
+    position: fixed;
+    overflow: hidden;
+    bottom: 0; 
+}

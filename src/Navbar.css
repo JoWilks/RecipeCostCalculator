@@ -1,0 +1,27 @@
+.navbarContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin: 2vh;
+    padding: 0;
+    list-style: none;
+}
+
+li {
+    text-align: center; 
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+}
+
+.title {
+    font-weight: bold;
+}
+
+.button {
+}
